@@ -1,0 +1,8 @@
+transaction_id,customer_id,email,amount,date
+T001,C101,john@gmail.com,500,2026-11-01
+T002,C102,sarah@gmail.com,750,2026-11-02
+T003,C103,invalid-email,300,2026-11-03
+T004,,alex@gmail.com,450,2026-11-04
+T005,C105,mike@gmail.com,900,2026-11-05
+T001,C101,john@gmail.com,500,2026-11-01
+T006,C106,emma@gmail.com,-100,2026-11-06
